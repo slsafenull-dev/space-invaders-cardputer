@@ -48,8 +48,6 @@ M5Stack Cardputer で動作するスペースインベーダーゲームです�
 
 MIT License
 
-Made with Claude (Anthropic)
-
 ## クレジット
 
 Made with [Claude](https://claude.ai) (Anthropic)
