@@ -27,6 +27,12 @@ M5Stack Cardputer で動作するスペースインベーダーゲームです�
 - [M5Cardputer](https://github.com/m5stack/M5Cardputer)
 - [M5GFX](https://github.com/m5stack/M5GFX)
 
+## Screenshots
+
+![Title Screen](screen_3.jpg)
+![Gameplay](screen_1.jpg)
+![Gameplay 2](screen_2.jpg)
+
 ## インストール方法
 
 1. Arduino IDE にボードを追加
