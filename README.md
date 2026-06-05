@@ -29,9 +29,9 @@ M5Stack Cardputer で動作するスペースインベーダーゲームです�
 
 ## Screenshots
 
-![Title Screen](screen_3.jpg)
-![Gameplay](screen_1.jpg)
-![Gameplay 2](screen_2.jpg)
+![Title Screen](screen_1.jpg)
+![Gameplay](screen_2.jpg)
+![Gameplay 2](screen_3.jpg)
 
 ## インストール方法
 
