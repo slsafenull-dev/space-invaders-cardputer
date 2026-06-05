@@ -423,7 +423,7 @@ void drawTitle() {
 
   sprite.setTextColor(C_DKGRAY);
   sprite.setCursor(34, 108);
-  sprite.print(",=LEFT   /=RIGHT   SPC=FIRE");
+  sprite.print("k=LEFT   l=RIGHT   a=FIRE");
 
   sprite.pushSprite(&M5Cardputer.Display, 0, 0);
 }
